@@ -1,0 +1,17 @@
+Added Component: Designator=DA4(LD39050PU33R (DFN6 (3x3 mm)))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ld39050pu33r-regulyator-napryazheniya-st-microelectronics-9000811056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/843/DOC012843751.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc"; Value = "Стабилизатор напряжения линейный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DFN6 (3x3 mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ta"; Value = "125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC"; Value = "5.5 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout"; Value = "3.3 В"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DA4-0
+Added Pin To Net: NetName=+5V Pin=DA4-1
+Added Pin To Net: NetName=GND Pin=DA4-2
+Added Pin To Net: NetName=+3V3 Pin=DA4-4
+Added Pin To Net: NetName=+5V Pin=DA4-6
+Added Member To Class: ClassName=МИЭМ.467999.001Э3(4) Member=Component DA4 LD39050PU33R

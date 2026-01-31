@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=OSC_IN New Net Name=OSCIN_P
+Change Net Name : Old Net Name=OSC_OUT New Net Name=OSCOUT_N
+Add Differential Pair: Number of nets in differential pair OSCIN is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair OSCOUT is 1 instead of 2

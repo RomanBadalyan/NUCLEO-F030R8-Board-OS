@@ -1,0 +1,25 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\ָּÝּ.467999.001\ָּÝּ.467999.001.PcbDoc
+Date         : 19.01.2026
+Time         : 19:55:01
+Time Elapsed : 00:00:00
+
+Track Width, Count
+    0.0254mm, 354
+    0.05mm, 12
+    0.1mm, 285
+    0.1524mm, 286
+    0.2mm, 622
+    0.254mm, 984
+    0.508mm, 28
+    0.54mm, 14
+    0.559mm, 1
+    0.612mm, 2
+    0.75mm, 2
+    0.813mm, 1
+    0.86mm, 1
+    0.914mm, 7
+    1mm, 19
+    1.016mm, 12
+    1.25mm, 7
+count : 17

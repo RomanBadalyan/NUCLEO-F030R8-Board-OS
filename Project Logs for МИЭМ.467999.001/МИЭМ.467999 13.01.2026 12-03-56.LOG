@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetR16_1 New Net Name=RES_P
+Change Net Name : Old Net Name=NetR18_1 New Net Name=RES_N
+Added Differential Pair: Name=RES

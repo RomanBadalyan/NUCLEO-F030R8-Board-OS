@@ -1,0 +1,2 @@
+Change Net Name : Old Net Name=OSCOUT_N New Net Name=OSCIN_N
+Added Differential Pair: Name=OSCIN

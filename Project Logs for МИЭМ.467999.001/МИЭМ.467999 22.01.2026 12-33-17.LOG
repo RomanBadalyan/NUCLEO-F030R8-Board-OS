@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NRST Pin=DD2-18
+Removed Pin From Net: NetName=NRST Pin=R13-1
+Added Component: Designator=SB12(Jumper)
+Added Pin To Net: NetName=NRST Pin=SB12-2
+Added Pin To Net: NetName=T_NRST Pin=DD2-18
+Added Pin To Net: NetName=T_NRST Pin=R13-1
+Added Pin To Net: NetName=T_NRST Pin=SB12-1
+Added Net: Name=T_NRST

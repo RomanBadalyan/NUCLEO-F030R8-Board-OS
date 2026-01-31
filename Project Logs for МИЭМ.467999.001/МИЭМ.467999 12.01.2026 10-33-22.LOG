@@ -1,0 +1,9 @@
+Change component parameters: Designator = "FA1" ("FA1"); Footprint = "FCM1608KF-601T05"; UniqueID = "\ZFSASELC" ("\ZFSASELC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Source"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/fcm1608kf-601t05-tai-tech-8040727428"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "500 לְ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Desc"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"

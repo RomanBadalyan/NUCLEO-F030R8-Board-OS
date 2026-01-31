@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=VBAT/VLCD/VDD Pin=C29-2
+Removed Pin From Net: NetName=VBAT/VLCD/VDD Pin=DD5-1
+Removed Pin From Net: NetName=NetC15_2 Pin=SB17-2
+Removed Pin From Net: NetName=PD8 Pin=SB18-2
+Removed Pin From Net: NetName=PB15 Pin=SB19-2
+Removed Pin From Net: NetName=PB15 Pin=SB22-2
+Removed Pin From Net: NetName=PB14 Pin=SB23-2
+Removed Pin From Net: NetName=PB14 Pin=SB26-2
+Removed Pin From Net: NetName=PB13 Pin=SB27-2
+Removed Pin From Net: NetName=PF6 Pin=SB32-2
+Removed Pin From Net: NetName=GND Pin=SB33-2
+Removed Pin From Net: NetName=AVDD Pin=SB34-2
+Removed Pin From Net: NetName=PB12 Pin=SB37-2
+Removed Pin From Net: NetName=GND Pin=SB38-2
+Removed Pin From Net: NetName=GND Pin=SB53-2
+Removed Pin From Net: NetName=PF4 Pin=SB58-2
+Removed Pin From Net: NetName=PA3 Pin=SB59-2
+Removed Pin From Net: NetName=PB1 Pin=SB64-2
+Removed Pin From Net: NetName=AVDD Pin=SB65-2
+Removed Pin From Net: NetName=VBAT/VLCD/VDD Pin=XP7-33
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=C22
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=C25
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB17
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB18
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB19
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB22
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB23
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB26
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB27
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB32
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB33
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB34
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB37
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB38
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB53
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB58
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB59
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB64
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB65
+Added Component: Designator=SB45(Jumper)
+Added Pin To Net: NetName=NetC15_2 Pin=DD5-2
+Added Pin To Net: NetName=PF4 Pin=DD5-18
+Added Pin To Net: NetName=PB1 Pin=DD5-27
+Added Pin To Net: NetName=GND Pin=DD5-31
+Added Pin To Net: NetName=PB12 Pin=DD5-33
+Added Pin To Net: NetName=PB13 Pin=DD5-34
+Added Pin To Net: NetName=PB14 Pin=DD5-35
+Added Pin To Net: NetName=PB15 Pin=DD5-36
+Added Pin To Net: NetName=PF6 Pin=DD5-47
+Added Pin To Net: NetName=VBAT/VLCD/VDD Pin=SB45-1
+Added Pin To Net: NetName=NetC15_2 Pin=XP7-23
+Change Net Name : Old Net Name=NetC15_2 New Net Name=PC13
+Change Net Name : Old Net Name=VBAT/VLCD/VDD New Net Name=VDD
+Added Pin To Net: NetName=VBAT/VLCD/VDD Pin=C29-2
+Added Pin To Net: NetName=VBAT/VLCD/VDD Pin=DD5-1
+Added Pin To Net: NetName=VBAT/VLCD/VDD Pin=SB45-2
+Added Pin To Net: NetName=VBAT/VLCD/VDD Pin=XP7-33
+Added Net: Name=VBAT/VLCD/VDD
+Added Member To Class: ClassName=Ã»›Ã.467999.001›3 Member=Component SB45 Jumper

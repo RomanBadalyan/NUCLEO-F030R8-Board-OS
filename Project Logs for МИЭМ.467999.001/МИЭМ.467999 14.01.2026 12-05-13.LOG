@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NRST Pin=SB12-2
+Removed Pin From Net: NetName=STLINK_RX Pin=SB13-2
+Removed Pin From Net: NetName=NetDD5_17 Pin=SB14-1
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3(3) Member=SB12
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3(3) Member=SB13
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3(3) Member=SB14
+Added Pin To Net: NetName=NetDD5_17 Pin=DD2-12
+Added Pin To Net: NetName=NRST Pin=DD2-18
+Added Pin To Net: NetName=STLINK_RX Pin=DD5-16
+Added Pin To Net: NetName=NRST Pin=R13-1
+Added Pin To Net: NetName=STLINK_RX Pin=SB63-2
+Added Pin To Net: NetName=NetDD5_17 Pin=XP3-1
+Change Net Name : Old Net Name=NetDD5_17 New Net Name=STLINK_TX

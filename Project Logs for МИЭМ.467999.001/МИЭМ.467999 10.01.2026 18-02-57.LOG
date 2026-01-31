@@ -1,0 +1,17 @@
+Added Component: Designator=DA1(LD3985M33R (SOT-23-5))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ld3985m33r-regulyator-s-nizkim-padeniem-st-microelectronics-9060001543"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc"; Value = "Стабилизатор напряжения линейный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ta"; Value = "125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC"; Value = "6 В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout"; Value = "3.3 В"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=DA1-1
+Added Pin To Net: NetName=GND Pin=DA1-2
+Added Pin To Net: NetName=NetC2_2 Pin=DA1-3
+Added Pin To Net: NetName=NetC9_2 Pin=DA1-4
+Added Pin To Net: NetName=+3V3_ST_LINK Pin=DA1-5
+Added Member To Class: ClassName=МИЭМ.467999.001Э3(3) Member=Component DA1 LD3985M33R

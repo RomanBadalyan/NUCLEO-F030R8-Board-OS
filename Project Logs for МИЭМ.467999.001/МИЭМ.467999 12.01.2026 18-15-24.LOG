@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=U5V Pin=SB1-1
+Removed Pin From Net: NetName=NetSB1_2 Pin=SB1-2
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3(4) Member=SB1
+Change Net Name : Old Net Name=NetSB1_2 New Net Name=NetVT2_5

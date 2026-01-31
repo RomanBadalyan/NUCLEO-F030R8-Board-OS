@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=AVDD Pin=SB57-2
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB57
+Added Pin To Net: NetName=AVDD Pin=FA1-1

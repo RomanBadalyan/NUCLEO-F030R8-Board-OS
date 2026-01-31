@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PF7 Pin=SB30-1
+Removed Pin From Net: NetName=VBAT/VLCD/VDD Pin=SB31-1
+Removed Pin From Net: NetName=VBAT/VLCD/VDD Pin=SB43-1
+Removed Pin From Net: NetName=PF5 Pin=SB47-1
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB30
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB31
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB43
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3 Member=SB47
+Added Pin To Net: NetName=PF5 Pin=DD5-19
+Added Pin To Net: NetName=PF7 Pin=DD5-48

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=AIN_1 Pin=R9-2
+Removed Member From Class: ClassName=Ã»›Ã.467999.001›3(3) Member=R9
+Add Differential Pair: Number of nets in differential pair OSCIN is 1 instead of 2
