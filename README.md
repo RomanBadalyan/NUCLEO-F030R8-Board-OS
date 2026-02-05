@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/Altium%20Designer-v24.4.1-orange)
+![version](https://img.shields.io/badge/Altium%20Designer-v24.4.1-orange) ![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-NUCLEO_F030R8-yellow)
 
 # Описание
 
@@ -75,6 +75,7 @@ ______________
 * [`МИЭМ.687253.001`](https://github.com/RomanBadalyan/NUCLEO-F030R8-Board-OS/blob/main/Documents/%D0%9C%D0%98%D0%AD%D0%9C.687253.001.pdf) - спецификация на печатную плату
 * [`МИЭМ.687253.001СБ`](https://github.com/RomanBadalyan/NUCLEO-F030R8-Board-OS/blob/main/Documents/%D0%9C%D0%98%D0%AD%D0%9C.687253.001%D0%A1%D0%91.pdf) - сборочный чертеж на печатную плату
 * [`МИЭМ.687253.001Д1`](https://github.com/RomanBadalyan/NUCLEO-F030R8-Board-OS/blob/main/Documents/%D0%9C%D0%98%D0%AD%D0%9C.687253.001%D0%941.pdf) - данные конструкции
+
 
 
 
